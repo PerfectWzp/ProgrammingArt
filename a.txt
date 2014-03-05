@@ -1,0 +1,11 @@
+ Volume in drive E is OTHERS
+ Volume Serial Number is FC70-1066
+
+ Directory of E:\Git\ProgrammingArt
+
+2014/03/05  20:29    <DIR>          .
+2014/03/05  20:29    <DIR>          ..
+2014/03/05  20:29                 0 a.txt
+2014/03/05  20:18                72 README.md
+               2 File(s)             72 bytes
+               2 Dir(s)  390,782,103,552 bytes free
