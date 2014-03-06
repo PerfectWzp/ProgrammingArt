@@ -1,0 +1,13 @@
+ Volume in drive E is OTHERS
+ Volume Serial Number is FC70-1066
+
+ Directory of E:\tmp\ProgrammingArt
+
+2014/03/06  14:27    <DIR>          .
+2014/03/06  14:27    <DIR>          ..
+2014/03/06  14:26               376 a.txt
+2014/03/06  14:27                 0 aa.txt
+2014/03/06  14:26                54 b.txt
+2014/03/06  14:26                72 README.md
+               4 File(s)            502 bytes
+               2 Dir(s)  390,781,952,000 bytes free
